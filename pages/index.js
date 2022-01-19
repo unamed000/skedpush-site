@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Let's vote for our most beautiful cat. <a href="skedcodepush://extension/CatTinder">Please follow this link!</a> <br/>
+        </p>
+       <p className="description">
+          Or compete in 2048 event. <a href="skedcodepush://extension/CatTinder">Please follow this link!</a> <br/>
         </p>
       </main>
 
