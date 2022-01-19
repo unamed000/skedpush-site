@@ -16,7 +16,7 @@ export default function Home() {
           Let's vote for our most beautiful cat. <a href="skedcodepush://extension/CatTinder">Please follow this link!</a> <br/>
         </p>
        <p className="description">
-          Or compete in 2048 event. <a href="skedcodepush://extension/CatTinder">Please follow this link!</a> <br/>
+          Or compete in 2048 event. <a href="skedcodepush://extension/ReactNative2048?requireScore=50">Please follow this link!</a> <br/>
         </p>
       </main>
 
